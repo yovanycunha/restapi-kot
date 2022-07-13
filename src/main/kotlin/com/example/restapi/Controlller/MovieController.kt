@@ -6,6 +6,7 @@ import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
 
 @RestController
+@CrossOrigin
 @RequestMapping("/movies")
 class MovieController(private val service: MovieService) {
 
