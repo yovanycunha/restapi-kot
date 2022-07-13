@@ -14,7 +14,7 @@
     <name>restApi</name>
     <description>restApi</description>
     <properties>
-        <java.version>17</java.version>
+        <java.version>18</java.version>
         <kotlin.version>1.6.21</kotlin.version>
     </properties>
     <dependencies>
